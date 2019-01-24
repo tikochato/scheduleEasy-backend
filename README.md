@@ -1,6 +1,6 @@
 # ScheduleEasy-backend
 Coding Challenge
-_Repositorio de software del servidor de Backend_
+_Repositorio de software del servidor de Backend realizado con NodeJS y Express_
 
 ##LiveDemo
 Se montó el servicio sobre un AWS EC2 al cuál se puede acceder con la siguiente dirección:
