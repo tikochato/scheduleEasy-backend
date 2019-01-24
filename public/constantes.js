@@ -1,4 +1,6 @@
-exports.personas = [
+const moment = require('moment');
+  
+  exports.personas = [
   {
     id: 1,
     nombre: 'Kyle',
@@ -30,3 +32,9 @@ exports.personas = [
     reuniones: ['8:00', '12:30', '13:30', '15:30']
   }
 ]
+
+exports.duracion = 30;
+exports.horaInicio = "8:00";
+exports.horaFin = "17:00";
+exports.lunchInicio = "12:00";
+exports.lunchFin = "13:00";
